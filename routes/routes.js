@@ -11,9 +11,11 @@ router.get('/send-message/', async (req, res) => {
     
     if(contacts.length != 0) {
         contacts.map(contact => {
-            sendMessages.sendMessages('Peligro', contact)
+            sendMessages.sendMessages('Existe incendios cercanos, PELIGRO!!!', contact)
         })
     }
+    res.status(200).send('200 OK');
+
 })
 
 module.exports = router;
