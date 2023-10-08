@@ -1,0 +1,225 @@
+{
+    "contacts": [
+      {
+        "name": "Alejandro Alvarez",
+        "phone": "+59169870628",
+        "latitude": -16.499586146571012,
+        "longitude": -68.159141379932314,
+        "country": "Bolivia",
+        "quadrant": {
+          "column": 2,
+          "row": 1
+        }
+      },
+      {
+        "name": "Maria Garcia",
+        "phone": "+9876543210",
+        "latitude": -34.6118,
+        "longitude": -58.4173,
+        "country": "Argentina",
+        "quadrant": {
+          "column": 4,
+          "row": 10
+        }
+      },
+      {
+        "name": "Carlos Lopez",
+        "phone": "+44123456789",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "country": "United Kingdom",
+        "quadrant": {
+          "column": 10,
+          "row": 5
+        }
+      },
+      {
+        "name": "Emily Smith",
+        "phone": "+1122334455",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "country": "France",
+        "quadrant": {
+          "column": 10,
+          "row": 6
+        }
+      },
+      {
+        "name": "Luis Hernandez",
+        "phone": "+5566778899",
+        "latitude": 19.4326,
+        "longitude": -99.1332,
+        "country": "Mexico",
+        "quadrant": {
+          "column": 13,
+          "row": 9
+        }
+      },
+      {
+        "name": "Anna Kim",
+        "phone": "+9998887777",
+        "latitude": 37.7749,
+        "longitude": -122.4194,
+        "country": "United States",
+        "quadrant": {
+          "column": 9,
+          "row": 8
+        }
+      },
+      {
+        "name": "Mohammed Ali",
+        "phone": "+1231231234",
+        "latitude": 25.276987,
+        "longitude": 55.296249,
+        "country": "United Arab Emirates",
+        "quadrant": {
+          "column": 16,
+          "row": 10
+        }
+      },
+      {
+        "name": "Sophia Brown",
+        "phone": "+7778889999",
+        "latitude": 51.1657,
+        "longitude": 10.4515,
+        "country": "Germany",
+        "quadrant": {
+          "column": 10,
+          "row": 5
+        }
+      },
+      {
+        "name": "Mia Wilson",
+        "phone": "+5554443333",
+        "latitude": -33.8688,
+        "longitude": 151.2093,
+        "country": "Australia",
+        "quadrant": {
+          "column": 17,
+          "row": 11
+        }
+      },
+      {
+        "name": "Chen Wei",
+        "phone": "+8612345678901",
+        "latitude": 39.9042,
+        "longitude": 116.4074,
+        "country": "China",
+        "quadrant": {
+          "column": 16,
+          "row": 8
+        }
+      },
+      {
+        "name": "Ravi Patel",
+        "phone": "+911234567890",
+        "latitude": 28.6139,
+        "longitude": 77.2090,
+        "country": "India",
+        "quadrant": {
+          "column": 15,
+          "row": 8
+        }
+      },
+      {
+        "name": "Lena Sato",
+        "phone": "+8181818181",
+        "latitude": 35.682839,
+        "longitude": 139.759455,
+        "country": "Japan",
+        "quadrant": {
+          "column": 16,
+          "row": 6
+        }
+      },
+      {
+        "name": "Maria Silva",
+        "phone": "+5555555555",
+        "latitude": -23.5505,
+        "longitude": -46.6333,
+        "country": "Brazil",
+        "quadrant": {
+          "column": 14,
+          "row": 11
+        }
+      },
+      {
+        "name": "Nina Ivanova",
+        "phone": "+74951234567",
+        "latitude": 55.7558,
+        "longitude": 37.6176,
+        "country": "Russia",
+        "quadrant": {
+          "column": 16,
+          "row": 7
+        }
+      },
+      {
+        "name": "Isabel Lopez",
+        "phone": "+3456789012",
+        "latitude": 40.4168,
+        "longitude": -3.7038,
+        "country": "Spain",
+        "quadrant": {
+          "column": 15,
+          "row": 7
+        }
+      },
+      {
+        "name": "Ahmed Mahmoud",
+        "phone": "+201234567890",
+        "latitude": 30.0444,
+        "longitude": 31.2357,
+        "country": "Egypt",
+        "quadrant": {
+          "column": 16,
+          "row": 9
+        }
+      },
+      {
+        "name": "Sara Andersen",
+        "phone": "+4567890123",
+        "latitude": 55.6761,
+        "longitude": 12.5683,
+        "country": "Denmark",
+        "quadrant": {
+          "column": 16,
+          "row": 6
+        }
+      },
+      {
+        "name": "Luca Rossi",
+        "phone": "+391234567890",
+        "latitude": 41.9028,
+        "longitude": 12.4964,
+        "country": "Italy",
+        "quadrant": {
+          "column": 16,
+          "row": 6
+        }
+      },
+      {
+        "name": "Hiroshi Tanaka",
+        "phone": "+81345678901",
+        "latitude": 35.682839,
+        "longitude": 139.759455,
+        "country": "Japan",
+        "quadrant": {
+          "column": 16,
+          "row": 6
+        }
+      },
+      {
+        "name": "Hannah Smith",
+        "phone": "+441234567890",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "country": "United Kingdom",
+        "quadrant": {
+          "column": 10,
+          "row": 5
+        }
+      }
+    ]
+  }
+  
