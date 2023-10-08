@@ -5,7 +5,6 @@ const sendMessages = require('../send-messages.js')
 const router = express.Router()
 
 router.get('/send-message/', async (req, res) => {
-    const country = req.query.country;
     const longitude = req.query.lat;
     const latitude = req.query.long
     const contacts = mapUtils.getContactsInSameQuadrant(longitude, latitude)
@@ -15,8 +14,6 @@ router.get('/send-message/', async (req, res) => {
             sendMessages.sendMessages('Peligro', contact)
         })
     }
-
-    res.send(req.query.country)
 })
 
 module.exports = router;
